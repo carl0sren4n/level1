@@ -1,1 +1,1 @@
-# level1
+// Atividade inicial do meu curso de Analise e desenvolvimento de sistemas, a ativiade consiste em criar um programa em linguagem .C para realizar uma especie de cadastro de cartas de "Super Trunfo" que fazem a leitura e saidas de dados.
